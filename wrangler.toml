@@ -1,9 +1,5 @@
 name = "my-react-app"
-compatibility_date = "2025-08-07"
 pages_build_output_dir = "./dist"
 
-[env.production.build]
-command = "npm run build"
-
-[env.production.site]
-bucket = "./dist" 
+[build]
+command = "npm run build" 
