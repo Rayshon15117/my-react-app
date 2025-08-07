@@ -1,0 +1,2738 @@
+{
+  "fileInfo": {
+    "name": "Untitled",
+    "lastModified": "2025-08-07T06:38:40Z",
+    "version": "2249429525424495900"
+  },
+  "pages": [
+    {
+      "name": "Page 2",
+      "type": "CANVAS",
+      "childrenCount": 1
+    }
+  ],
+  "designTokens": {
+    "colors": [
+      "rgb(139, 134, 127)",
+      "rgb(14, 53, 44)",
+      "rgb(203, 204, 196)",
+      "rgb(21, 21, 21)",
+      "rgb(233, 235, 223)",
+      "rgb(255, 255, 255)",
+      "rgb(36, 36, 36)",
+      "rgb(5, 223, 114)",
+      "rgb(67, 62, 56)"
+    ],
+    "spacing": [
+      0.009999999776482582,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      14,
+      14.25,
+      14.5,
+      15.75,
+      16,
+      17,
+      24,
+      25,
+      27,
+      28,
+      32,
+      33,
+      48,
+      64,
+      65,
+      80,
+      96,
+      128,
+      133,
+      327.9200134277344,
+      353.7300109863281,
+      384,
+      512,
+      33554400
+    ],
+    "typography": [
+      11.0625,
+      11.25,
+      11.4375,
+      11.625,
+      11.8125,
+      12,
+      12.90625,
+      13.015625,
+      13.125,
+      13.234375,
+      13.34375,
+      13.453125,
+      13.671875,
+      13.78125,
+      14,
+      14.625,
+      14.75,
+      14.875,
+      15,
+      15.25,
+      16,
+      16.59375,
+      16.734375,
+      17.015625,
+      18,
+      19.6875,
+      20,
+      22.6875,
+      22.875,
+      23.25,
+      24,
+      30,
+      300,
+      400,
+      44.4375,
+      45,
+      45.5625,
+      60,
+      69.328125,
+      "Inter"
+    ],
+    "components": [],
+    "frames": [
+      {
+        "name": "1920w light",
+        "id": "3:4",
+        "width": 1920,
+        "height": 6275.25
+      },
+      {
+        "name": "Background",
+        "id": "3:6",
+        "width": 1920,
+        "height": 6185.25
+      },
+      {
+        "name": "Section → Section",
+        "id": "3:9",
+        "width": 1920,
+        "height": 840
+      },
+      {
+        "name": "Container",
+        "id": "3:11",
+        "width": 1920,
+        "height": 840
+      },
+      {
+        "name": "Container",
+        "id": "3:20",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "name": "Container",
+        "id": "3:21",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "name": "Background+Border+Shadow",
+        "id": "3:24",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "name": "Container",
+        "id": "3:29",
+        "width": 184,
+        "height": 184
+      },
+      {
+        "name": "Container",
+        "id": "3:30",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "name": "Container",
+        "id": "3:41",
+        "width": 445.47714616799203,
+        "height": 445.47694870410487
+      },
+      {
+        "name": "Section → Section",
+        "id": "3:43",
+        "width": 1920,
+        "height": 698.25
+      },
+      {
+        "name": "Container",
+        "id": "3:44",
+        "width": 896,
+        "height": 442.25
+      },
+      {
+        "name": "Blur",
+        "id": "3:46",
+        "width": 848,
+        "height": 126
+      },
+      {
+        "name": "Heading 1",
+        "id": "3:48",
+        "width": 848,
+        "height": 90
+      },
+      {
+        "name": "Container",
+        "id": "3:54",
+        "width": 848,
+        "height": 28
+      },
+      {
+        "name": "Blur",
+        "id": "3:61",
+        "width": 848,
+        "height": 104.75
+      },
+      {
+        "name": "Container",
+        "id": "3:62",
+        "width": 848,
+        "height": 49
+      },
+      {
+        "name": "Blur",
+        "id": "3:70",
+        "width": 848,
+        "height": 58.5
+      },
+      {
+        "name": "Container",
+        "id": "3:71",
+        "width": 672,
+        "height": 59
+      },
+      {
+        "name": "Blur",
+        "id": "3:77",
+        "width": 848,
+        "height": 24
+      },
+      {
+        "name": "SVG",
+        "id": "3:78",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:84",
+        "width": 82,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:90",
+        "width": 848,
+        "height": 1
+      },
+      {
+        "name": "Container",
+        "id": "3:92",
+        "width": 1920,
+        "height": 698.25
+      },
+      {
+        "name": "Section → Section",
+        "id": "3:106",
+        "width": 1920,
+        "height": 310
+      },
+      {
+        "name": "Container",
+        "id": "3:107",
+        "width": 1920,
+        "height": 310
+      },
+      {
+        "name": "Container",
+        "id": "3:114",
+        "width": 896,
+        "height": 182
+      },
+      {
+        "name": "Container",
+        "id": "3:116",
+        "width": 848,
+        "height": 45
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:117",
+        "width": 848,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:120",
+        "width": 848,
+        "height": 1
+      },
+      {
+        "name": "List",
+        "id": "3:122",
+        "width": 848,
+        "height": 56
+      },
+      {
+        "name": "Item",
+        "id": "3:123",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:124",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Img",
+        "id": "3:125",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Item",
+        "id": "3:127",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:128",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Img",
+        "id": "3:129",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Item",
+        "id": "3:131",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:132",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Img",
+        "id": "3:133",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Item",
+        "id": "3:135",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:136",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "SVG",
+        "id": "3:137",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:145",
+        "width": 848,
+        "height": 17
+      },
+      {
+        "name": "Section → Section",
+        "id": "3:147",
+        "width": 1920,
+        "height": 1418
+      },
+      {
+        "name": "Container",
+        "id": "3:148",
+        "width": 896,
+        "height": 1226
+      },
+      {
+        "name": "Container",
+        "id": "3:149",
+        "width": 848,
+        "height": 125
+      },
+      {
+        "name": "Heading 2",
+        "id": "3:150",
+        "width": 848,
+        "height": 48
+      },
+      {
+        "name": "Container",
+        "id": "3:155",
+        "width": 672,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:158",
+        "width": 848,
+        "height": 17
+      },
+      {
+        "name": "Container",
+        "id": "3:160",
+        "width": 848,
+        "height": 37
+      },
+      {
+        "name": "Container",
+        "id": "3:161",
+        "width": 209,
+        "height": 37
+      },
+      {
+        "name": "Container",
+        "id": "3:162",
+        "width": 209,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:166",
+        "width": 848,
+        "height": 936
+      },
+      {
+        "name": "List",
+        "id": "3:168",
+        "width": 848,
+        "height": 936
+      },
+      {
+        "name": "Item",
+        "id": "3:169",
+        "width": 848,
+        "height": 198
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:170",
+        "width": 768,
+        "height": 198
+      },
+      {
+        "name": "Container",
+        "id": "3:171",
+        "width": 715,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:172",
+        "width": 650,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:174",
+        "width": 650,
+        "height": 64
+      },
+      {
+        "name": "Container",
+        "id": "3:176",
+        "width": 168,
+        "height": 64
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:177",
+        "width": 168,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:180",
+        "width": 168,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:184",
+        "width": 133,
+        "height": 24
+      },
+      {
+        "name": "SVG",
+        "id": "3:185",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:193",
+        "width": 109,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:196",
+        "width": 650,
+        "height": 26
+      },
+      {
+        "name": "Container",
+        "id": "3:200",
+        "width": 650,
+        "height": 34
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:201",
+        "width": 65,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:207",
+        "width": 96,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:210",
+        "width": 71,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:213",
+        "width": 113,
+        "height": 30
+      },
+      {
+        "name": "Container",
+        "id": "3:216",
+        "width": 49,
+        "height": 72
+      },
+      {
+        "name": "Background",
+        "id": "3:217",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:219",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:228",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Item",
+        "id": "3:231",
+        "width": 848,
+        "height": 198
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:232",
+        "width": 768,
+        "height": 198
+      },
+      {
+        "name": "Container",
+        "id": "3:233",
+        "width": 715,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:234",
+        "width": 650,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:235",
+        "width": 650,
+        "height": 64
+      },
+      {
+        "name": "Container",
+        "id": "3:237",
+        "width": 168,
+        "height": 64
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:238",
+        "width": 168,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:240",
+        "width": 168,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:242",
+        "width": 154,
+        "height": 24
+      },
+      {
+        "name": "SVG",
+        "id": "3:243",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:251",
+        "width": 130,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:254",
+        "width": 650,
+        "height": 26
+      },
+      {
+        "name": "Container",
+        "id": "3:256",
+        "width": 650,
+        "height": 34
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:257",
+        "width": 67,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:260",
+        "width": 76,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:263",
+        "width": 105,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:265",
+        "width": 73,
+        "height": 30
+      },
+      {
+        "name": "Container",
+        "id": "3:267",
+        "width": 49,
+        "height": 72
+      },
+      {
+        "name": "Background",
+        "id": "3:268",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:269",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:276",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Item",
+        "id": "3:278",
+        "width": 848,
+        "height": 198
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:279",
+        "width": 768,
+        "height": 198
+      },
+      {
+        "name": "Container",
+        "id": "3:280",
+        "width": 715,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:281",
+        "width": 650,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:282",
+        "width": 650,
+        "height": 64
+      },
+      {
+        "name": "Container",
+        "id": "3:283",
+        "width": 168,
+        "height": 64
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:284",
+        "width": 168,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:286",
+        "width": 168,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:288",
+        "width": 154,
+        "height": 24
+      },
+      {
+        "name": "SVG",
+        "id": "3:289",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:297",
+        "width": 130,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:300",
+        "width": 650,
+        "height": 26
+      },
+      {
+        "name": "Container",
+        "id": "3:302",
+        "width": 650,
+        "height": 34
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:303",
+        "width": 112,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:305",
+        "width": 72,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:307",
+        "width": 101,
+        "height": 30
+      },
+      {
+        "name": "Container",
+        "id": "3:309",
+        "width": 49,
+        "height": 72
+      },
+      {
+        "name": "Background",
+        "id": "3:310",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:311",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:317",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Item",
+        "id": "3:319",
+        "width": 848,
+        "height": 198
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:320",
+        "width": 768,
+        "height": 198
+      },
+      {
+        "name": "Container",
+        "id": "3:321",
+        "width": 715,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:322",
+        "width": 650,
+        "height": 148
+      },
+      {
+        "name": "Container",
+        "id": "3:323",
+        "width": 650,
+        "height": 64
+      },
+      {
+        "name": "Container",
+        "id": "3:324",
+        "width": 168,
+        "height": 64
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:325",
+        "width": 168,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:327",
+        "width": 168,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:329",
+        "width": 154,
+        "height": 24
+      },
+      {
+        "name": "SVG",
+        "id": "3:330",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:338",
+        "width": 130,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:341",
+        "width": 650,
+        "height": 26
+      },
+      {
+        "name": "Container",
+        "id": "3:343",
+        "width": 650,
+        "height": 34
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:344",
+        "width": 51,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:348",
+        "width": 89,
+        "height": 30
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:350",
+        "width": 91,
+        "height": 30
+      },
+      {
+        "name": "Container",
+        "id": "3:352",
+        "width": 49,
+        "height": 72
+      },
+      {
+        "name": "Background",
+        "id": "3:353",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:354",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:360",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Section → Section",
+        "id": "3:362",
+        "width": 1920,
+        "height": 1539
+      },
+      {
+        "name": "Container",
+        "id": "3:363",
+        "width": 1152,
+        "height": 1347
+      },
+      {
+        "name": "Container",
+        "id": "3:365",
+        "width": 1104,
+        "height": 153
+      },
+      {
+        "name": "Heading 2",
+        "id": "3:366",
+        "width": 1104,
+        "height": 48
+      },
+      {
+        "name": "Container",
+        "id": "3:369",
+        "width": 672,
+        "height": 56
+      },
+      {
+        "name": "Container",
+        "id": "3:371",
+        "width": 456.6099853515625,
+        "height": 17
+      },
+      {
+        "name": "Container",
+        "id": "3:374",
+        "width": 1104,
+        "height": 1034
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:375",
+        "width": 536,
+        "height": 514
+      },
+      {
+        "name": "Container",
+        "id": "3:376",
+        "width": 534,
+        "height": 512
+      },
+      {
+        "name": "Container",
+        "id": "3:377",
+        "width": 486,
+        "height": 224
+      },
+      {
+        "name": "Border",
+        "id": "3:378",
+        "width": 486,
+        "height": 224
+      },
+      {
+        "name": "Container",
+        "id": "3:379",
+        "width": 84,
+        "height": 96
+      },
+      {
+        "name": "Overlay",
+        "id": "3:380",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "name": "SVG",
+        "id": "3:383",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:390",
+        "width": 84,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:393",
+        "width": 89.63999938964844,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:394",
+        "width": 88,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:397",
+        "width": 486,
+        "height": 240
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:398",
+        "width": 438,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:400",
+        "width": 438,
+        "height": 52
+      },
+      {
+        "name": "Container",
+        "id": "3:402",
+        "width": 438,
+        "height": 28
+      },
+      {
+        "name": "Background",
+        "id": "3:403",
+        "width": 49,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:406",
+        "width": 76,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:409",
+        "width": 73,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:411",
+        "width": 75,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:414",
+        "width": 438,
+        "height": 44
+      },
+      {
+        "name": "Button",
+        "id": "3:415",
+        "width": 125,
+        "height": 32
+      },
+      {
+        "name": "Margin",
+        "id": "3:416",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:417",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Margin",
+        "id": "3:426",
+        "width": 20,
+        "height": 12
+      },
+      {
+        "name": "SVG",
+        "id": "3:427",
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Button",
+        "id": "3:432",
+        "width": 108,
+        "height": 32
+      },
+      {
+        "name": "Margin",
+        "id": "3:433",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:434",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Margin",
+        "id": "3:443",
+        "width": 20,
+        "height": 12
+      },
+      {
+        "name": "SVG",
+        "id": "3:444",
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Button",
+        "id": "3:448",
+        "width": 130,
+        "height": 32
+      },
+      {
+        "name": "Margin",
+        "id": "3:449",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:450",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Margin",
+        "id": "3:457",
+        "width": 20,
+        "height": 12
+      },
+      {
+        "name": "SVG",
+        "id": "3:458",
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:462",
+        "width": 536,
+        "height": 514
+      },
+      {
+        "name": "Container",
+        "id": "3:463",
+        "width": 534,
+        "height": 486
+      },
+      {
+        "name": "Container",
+        "id": "3:464",
+        "width": 486,
+        "height": 224
+      },
+      {
+        "name": "Border",
+        "id": "3:465",
+        "width": 486,
+        "height": 224
+      },
+      {
+        "name": "Container",
+        "id": "3:466",
+        "width": 73,
+        "height": 96
+      },
+      {
+        "name": "Overlay",
+        "id": "3:467",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "name": "SVG",
+        "id": "3:468",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:474",
+        "width": 73,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:476",
+        "width": 89.63999938964844,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:477",
+        "width": 88,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:479",
+        "width": 486,
+        "height": 214
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:480",
+        "width": 438,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:482",
+        "width": 438,
+        "height": 26
+      },
+      {
+        "name": "Container",
+        "id": "3:484",
+        "width": 438,
+        "height": 28
+      },
+      {
+        "name": "Background",
+        "id": "3:485",
+        "width": 54,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:487",
+        "width": 82,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:489",
+        "width": 56,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:491",
+        "width": 52,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:494",
+        "width": 438,
+        "height": 44
+      },
+      {
+        "name": "Button",
+        "id": "3:495",
+        "width": 125,
+        "height": 32
+      },
+      {
+        "name": "Margin",
+        "id": "3:496",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:497",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Margin",
+        "id": "3:504",
+        "width": 20,
+        "height": 12
+      },
+      {
+        "name": "SVG",
+        "id": "3:505",
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Button",
+        "id": "3:509",
+        "width": 108,
+        "height": 32
+      },
+      {
+        "name": "Margin",
+        "id": "3:510",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:511",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Margin",
+        "id": "3:519",
+        "width": 20,
+        "height": 12
+      },
+      {
+        "name": "SVG",
+        "id": "3:520",
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:524",
+        "width": 536,
+        "height": 488
+      },
+      {
+        "name": "Container",
+        "id": "3:525",
+        "width": 534,
+        "height": 486
+      },
+      {
+        "name": "Container",
+        "id": "3:526",
+        "width": 486,
+        "height": 224
+      },
+      {
+        "name": "Border",
+        "id": "3:527",
+        "width": 486,
+        "height": 224
+      },
+      {
+        "name": "Container",
+        "id": "3:528",
+        "width": 84,
+        "height": 96
+      },
+      {
+        "name": "Overlay",
+        "id": "3:529",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "name": "SVG",
+        "id": "3:530",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:536",
+        "width": 84,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:538",
+        "width": 89.63999938964844,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:539",
+        "width": 88,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:541",
+        "width": 486,
+        "height": 214
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:542",
+        "width": 438,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:544",
+        "width": 438,
+        "height": 26
+      },
+      {
+        "name": "Container",
+        "id": "3:546",
+        "width": 438,
+        "height": 28
+      },
+      {
+        "name": "Background",
+        "id": "3:547",
+        "width": 66,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:549",
+        "width": 68,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:552",
+        "width": 81,
+        "height": 24
+      },
+      {
+        "name": "Background",
+        "id": "3:554",
+        "width": 71,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:556",
+        "width": 438,
+        "height": 44
+      },
+      {
+        "name": "Button",
+        "id": "3:557",
+        "width": 125,
+        "height": 32
+      },
+      {
+        "name": "Margin",
+        "id": "3:558",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:559",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Margin",
+        "id": "3:566",
+        "width": 20,
+        "height": 12
+      },
+      {
+        "name": "SVG",
+        "id": "3:567",
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Button",
+        "id": "3:571",
+        "width": 130,
+        "height": 32
+      },
+      {
+        "name": "Margin",
+        "id": "3:572",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:573",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Margin",
+        "id": "3:580",
+        "width": 20,
+        "height": 12
+      },
+      {
+        "name": "SVG",
+        "id": "3:581",
+        "width": 12,
+        "height": 12
+      },
+      {
+        "name": "Container",
+        "id": "3:585",
+        "width": 1104,
+        "height": 48
+      },
+      {
+        "name": "Button",
+        "id": "3:586",
+        "width": 179,
+        "height": 48
+      },
+      {
+        "name": "Margin",
+        "id": "3:590",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "name": "SVG",
+        "id": "3:591",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:595",
+        "width": 1920,
+        "height": 1539
+      },
+      {
+        "name": "Section → Section",
+        "id": "3:600",
+        "width": 1920,
+        "height": 942
+      },
+      {
+        "name": "Container",
+        "id": "3:601",
+        "width": 1152,
+        "height": 750
+      },
+      {
+        "name": "Container",
+        "id": "3:603",
+        "width": 1104,
+        "height": 120
+      },
+      {
+        "name": "Heading 2",
+        "id": "3:604",
+        "width": 1104,
+        "height": 48
+      },
+      {
+        "name": "Container",
+        "id": "3:607",
+        "width": 672,
+        "height": 56
+      },
+      {
+        "name": "Container",
+        "id": "3:609",
+        "width": 1104,
+        "height": 566
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:610",
+        "width": 528,
+        "height": 566
+      },
+      {
+        "name": "Container",
+        "id": "3:611",
+        "width": 526,
+        "height": 564
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:612",
+        "width": 478,
+        "height": 32
+      },
+      {
+        "name": "Form",
+        "id": "3:615",
+        "width": 478,
+        "height": 460
+      },
+      {
+        "name": "Container",
+        "id": "3:616",
+        "width": 478,
+        "height": 67
+      },
+      {
+        "name": "Container",
+        "id": "3:617",
+        "width": 227,
+        "height": 67
+      },
+      {
+        "name": "Label",
+        "id": "3:618",
+        "width": 227,
+        "height": 15
+      },
+      {
+        "name": "Input",
+        "id": "3:621",
+        "width": 227,
+        "height": 48
+      },
+      {
+        "name": "Container",
+        "id": "3:622",
+        "width": 193,
+        "height": 21
+      },
+      {
+        "name": "Container",
+        "id": "3:625",
+        "width": 227,
+        "height": 67
+      },
+      {
+        "name": "Label",
+        "id": "3:626",
+        "width": 227,
+        "height": 15
+      },
+      {
+        "name": "Input",
+        "id": "3:628",
+        "width": 227,
+        "height": 48
+      },
+      {
+        "name": "Container",
+        "id": "3:629",
+        "width": 193,
+        "height": 21
+      },
+      {
+        "name": "Container",
+        "id": "3:631",
+        "width": 478,
+        "height": 67
+      },
+      {
+        "name": "Label",
+        "id": "3:632",
+        "width": 478,
+        "height": 15
+      },
+      {
+        "name": "Input",
+        "id": "3:634",
+        "width": 478,
+        "height": 48
+      },
+      {
+        "name": "Container",
+        "id": "3:635",
+        "width": 444,
+        "height": 21
+      },
+      {
+        "name": "Container",
+        "id": "3:638",
+        "width": 478,
+        "height": 206
+      },
+      {
+        "name": "Label",
+        "id": "3:639",
+        "width": 478,
+        "height": 20
+      },
+      {
+        "name": "Textarea",
+        "id": "3:642",
+        "width": 478,
+        "height": 170
+      },
+      {
+        "name": "Container",
+        "id": "3:643",
+        "width": 444,
+        "height": 24
+      },
+      {
+        "name": "Button",
+        "id": "3:646",
+        "width": 478,
+        "height": 48
+      },
+      {
+        "name": "Margin",
+        "id": "3:647",
+        "width": 28,
+        "height": 20
+      },
+      {
+        "name": "SVG",
+        "id": "3:648",
+        "width": 20,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:656",
+        "width": 528,
+        "height": 566
+      },
+      {
+        "name": "Border",
+        "id": "3:657",
+        "width": 528,
+        "height": 298
+      },
+      {
+        "name": "Container",
+        "id": "3:658",
+        "width": 526,
+        "height": 296
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:659",
+        "width": 478,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:662",
+        "width": 478,
+        "height": 192
+      },
+      {
+        "name": "Container",
+        "id": "3:663",
+        "width": 478,
+        "height": 48
+      },
+      {
+        "name": "Background",
+        "id": "3:664",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:665",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:671",
+        "width": 149,
+        "height": 44
+      },
+      {
+        "name": "Container",
+        "id": "3:672",
+        "width": 149,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:676",
+        "width": 478,
+        "height": 48
+      },
+      {
+        "name": "Background",
+        "id": "3:677",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:678",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:682",
+        "width": 80,
+        "height": 44
+      },
+      {
+        "name": "Container",
+        "id": "3:683",
+        "width": 80,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:686",
+        "width": 80,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:688",
+        "width": 478,
+        "height": 48
+      },
+      {
+        "name": "Background",
+        "id": "3:689",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:690",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:693",
+        "width": 132,
+        "height": 44
+      },
+      {
+        "name": "Container",
+        "id": "3:694",
+        "width": 132,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:696",
+        "width": 132,
+        "height": 24
+      },
+      {
+        "name": "Background+Border",
+        "id": "3:698",
+        "width": 528,
+        "height": 134
+      },
+      {
+        "name": "Container",
+        "id": "3:699",
+        "width": 478,
+        "height": 84
+      },
+      {
+        "name": "Heading 4",
+        "id": "3:701",
+        "width": 478,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:704",
+        "width": 478,
+        "height": 20
+      },
+      {
+        "name": "Section → Footer",
+        "id": "3:706",
+        "width": 1920,
+        "height": 310
+      },
+      {
+        "name": "Container",
+        "id": "3:707",
+        "width": 1152,
+        "height": 181
+      },
+      {
+        "name": "Container",
+        "id": "3:708",
+        "width": 1104,
+        "height": 100
+      },
+      {
+        "name": "Container",
+        "id": "3:709",
+        "width": 368,
+        "height": 100
+      },
+      {
+        "name": "Heading 3",
+        "id": "3:710",
+        "width": 368,
+        "height": 32
+      },
+      {
+        "name": "Container",
+        "id": "3:713",
+        "width": 368,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:716",
+        "width": 368,
+        "height": 28
+      },
+      {
+        "name": "Container",
+        "id": "3:718",
+        "width": 368,
+        "height": 48
+      },
+      {
+        "name": "Container",
+        "id": "3:719",
+        "width": 368,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:720",
+        "width": 73,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:723",
+        "width": 16.030000686645508,
+        "height": 16.030000686645508
+      },
+      {
+        "name": "SVG",
+        "id": "3:724",
+        "width": 16.030000686645508,
+        "height": 16.030000686645508
+      },
+      {
+        "name": "Container",
+        "id": "3:729",
+        "width": 74,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:731",
+        "width": 14,
+        "height": 24
+      },
+      {
+        "name": "Container",
+        "id": "3:734",
+        "width": 368,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:737",
+        "width": 368,
+        "height": 44
+      },
+      {
+        "name": "Container",
+        "id": "3:738",
+        "width": 368,
+        "height": 20
+      },
+      {
+        "name": "Container",
+        "id": "3:741",
+        "width": 368,
+        "height": 16
+      },
+      {
+        "name": "HorizontalBorder",
+        "id": "3:744",
+        "width": 1104,
+        "height": 49
+      },
+      {
+        "name": "Container",
+        "id": "3:745",
+        "width": 1104,
+        "height": 16
+      },
+      {
+        "name": "Container",
+        "id": "3:748",
+        "width": 1920,
+        "height": 309
+      },
+      {
+        "name": "Section",
+        "id": "3:755",
+        "width": 1920,
+        "height": 128
+      },
+      {
+        "name": "Container",
+        "id": "3:756",
+        "width": 1920,
+        "height": 1200
+      },
+      {
+        "name": "List",
+        "id": "3:782",
+        "width": 90,
+        "height": 330
+      },
+      {
+        "name": "Item",
+        "id": "3:785",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:786",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Img",
+        "id": "3:787",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Item",
+        "id": "3:789",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:790",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Img",
+        "id": "3:791",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Item",
+        "id": "3:793",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:794",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Img",
+        "id": "3:795",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Item",
+        "id": "3:797",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "Link",
+        "id": "3:798",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "name": "SVG",
+        "id": "3:799",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "name": "Button",
+        "id": "3:805",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "name": "SVG",
+        "id": "3:806",
+        "width": 20,
+        "height": 20
+      }
+    ],
+    "textStyles": [
+      {
+        "fontFamily": "Inter",
+        "fontSize": 60,
+        "fontWeight": 300,
+        "text": "张"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 69.328125,
+        "fontWeight": 400,
+        "text": "Zhang San"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 20,
+        "fontWeight": 300,
+        "text": "张三"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 30,
+        "fontWeight": 300,
+        "text": "全栈开发工程师 · 创意技术探索者"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16.59375,
+        "fontWeight": 400,
+        "text": "passionate about crafting elegant digital experien..."
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "深圳，中国"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 19.6875,
+        "fontWeight": 400,
+        "text": "Connect With Me"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 45.5625,
+        "fontWeight": 400,
+        "text": "Experience & Education"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16.734375,
+        "fontWeight": 400,
+        "text": "My professional journey and continuous learning pa..."
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.234375,
+        "fontWeight": 300,
+        "text": "\"Always learning, always growing\""
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 24,
+        "fontWeight": 300,
+        "text": "高级前端工程师"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 18,
+        "fontWeight": 300,
+        "text": "科技创新公司"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "text": "2024.01 - 至今"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "负责前端架构设计和团队技术方向，主导多个大型项目的前端开发。"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.671875,
+        "fontWeight": 400,
+        "text": "React"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12.90625,
+        "fontWeight": 400,
+        "text": "TypeScript"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.015625,
+        "fontWeight": 400,
+        "text": "Next.js"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.453125,
+        "fontWeight": 400,
+        "text": "Tailwind CSS"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12,
+        "fontWeight": 300,
+        "text": "工作经历"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 24,
+        "fontWeight": 300,
+        "text": "全栈开发工程师"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 18,
+        "fontWeight": 300,
+        "text": "创业公司"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14.875,
+        "fontWeight": 400,
+        "text": "2023.06 - 2023.12"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "独立完成产品从 0 到 1 的开发，包括前端、后端和部署运维。"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.34375,
+        "fontWeight": 400,
+        "text": "Vue.js"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.234375,
+        "fontWeight": 400,
+        "text": "Node.js"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.453125,
+        "fontWeight": 400,
+        "text": "PostgreSQL"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.234375,
+        "fontWeight": 400,
+        "text": "Docker"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 24,
+        "fontWeight": 300,
+        "text": "开源项目贡献者"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 18,
+        "fontWeight": 300,
+        "text": "个人项目"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14.75,
+        "fontWeight": 400,
+        "text": "2023.01 - 2023.05"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "为多个知名开源项目贡献代码，获得社区认可。"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.453125,
+        "fontWeight": 400,
+        "text": "Open Source"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.234375,
+        "fontWeight": 400,
+        "text": "GitHub"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.234375,
+        "fontWeight": 400,
+        "text": "Community"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12,
+        "fontWeight": 300,
+        "text": "项目经验"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 24,
+        "fontWeight": 300,
+        "text": "计算机科学硕士"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 18,
+        "fontWeight": 300,
+        "text": "清华大学"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 15,
+        "fontWeight": 400,
+        "text": "2022.09 - 2022.12"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "专注于人机交互和前端技术研究，GPA 3.8/4.0。"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "text": "HCI"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.671875,
+        "fontWeight": 400,
+        "text": "Research"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.234375,
+        "fontWeight": 400,
+        "text": "Academic"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12,
+        "fontWeight": 300,
+        "text": "教育背景"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 45,
+        "fontWeight": 400,
+        "text": "Featured Projects"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16.734375,
+        "fontWeight": 400,
+        "text": "A selection of projects that showcase my skills an..."
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 300,
+        "text": "设计系统平台"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12,
+        "fontWeight": 400,
+        "text": "Featured"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 24,
+        "fontWeight": 300,
+        "text": "设计系统平台"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "企业级设计系统管理平台，支持组件库、设计令牌和文档一体\n化管理。"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.625,
+        "fontWeight": 400,
+        "text": "React"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.0625,
+        "fontWeight": 400,
+        "text": "TypeScript"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.0625,
+        "fontWeight": 400,
+        "text": "Storybook"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.8125,
+        "fontWeight": 400,
+        "text": "Figma API"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.4375,
+        "fontWeight": 400,
+        "text": "Live Demo"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.25,
+        "fontWeight": 400,
+        "text": "GitHub"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.25,
+        "fontWeight": 400,
+        "text": "Case Study"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 300,
+        "text": "AI 助手应用"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 24,
+        "fontWeight": 300,
+        "text": "AI 助手应用"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "基于大语言模型的智能助手，支持多模态交互和个性化定制。"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.0625,
+        "fontWeight": 400,
+        "text": "Next.js"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.8125,
+        "fontWeight": 400,
+        "text": "OpenAI API"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.8125,
+        "fontWeight": 400,
+        "text": "Prisma"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.4375,
+        "fontWeight": 400,
+        "text": "Vercel"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 300,
+        "text": "实时协作工具"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 24,
+        "fontWeight": 300,
+        "text": "实时协作工具"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "支持多人实时协作的在线编辑器，类似 Figma 的协作体验。"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.8125,
+        "fontWeight": 400,
+        "text": "WebRTC"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.25,
+        "fontWeight": 400,
+        "text": "Socket.io"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.625,
+        "fontWeight": 400,
+        "text": "Canvas API"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.4375,
+        "fontWeight": 400,
+        "text": "MongoDB"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.234375,
+        "fontWeight": 400,
+        "text": "View All Projects"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 44.4375,
+        "fontWeight": 400,
+        "text": "Let's Work Together"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16.734375,
+        "fontWeight": 400,
+        "text": "Have a project in mind? I'd love to hear about it...."
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 22.875,
+        "fontWeight": 400,
+        "text": "Send a Message"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12,
+        "fontWeight": 400,
+        "text": "Name"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 15.25,
+        "fontWeight": 400,
+        "text": "Your name"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12,
+        "fontWeight": 400,
+        "text": "Email"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 15.25,
+        "fontWeight": 400,
+        "text": "your@email.com"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 12,
+        "fontWeight": 400,
+        "text": "Subject"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14.875,
+        "fontWeight": 400,
+        "text": "What's this about?"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "text": "Message"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14.875,
+        "fontWeight": 400,
+        "text": "Tell me about your project..."
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.34375,
+        "fontWeight": 400,
+        "text": "Send Message"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 22.6875,
+        "fontWeight": 400,
+        "text": "Get In Touch"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "text": "Email"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 15.25,
+        "fontWeight": 400,
+        "text": "hello@zhangsan.dev"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.78125,
+        "fontWeight": 400,
+        "text": "Location"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "text": "深圳，中国"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "text": "Response Time"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "text": "通常24小时内回复"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 17.015625,
+        "fontWeight": 400,
+        "text": "Available for Work"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 300,
+        "text": "目前开放新的合作机会"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 23.25,
+        "fontWeight": 400,
+        "text": "Zhang San"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "text": "全栈开发工程师 · 创意技术探索者"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 300,
+        "text": "深圳，中国"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14.625,
+        "fontWeight": 400,
+        "text": "Made with"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14.75,
+        "fontWeight": 400,
+        "text": "and lots of"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "text": "☕"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.25,
+        "fontWeight": 400,
+        "text": "Built with React, Tailwind CSS & Framer Motion"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 13.125,
+        "fontWeight": 400,
+        "text": "© 2025 Zhang San"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.0625,
+        "fontWeight": 400,
+        "text": "All rights reserved"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": 11.25,
+        "fontWeight": 300,
+        "text": "\"Stay curious, keep building, never stop learning...."
+      }
+    ],
+    "effects": [
+      "LAYER_BLUR",
+      "DROP_SHADOW",
+      "BACKGROUND_BLUR"
+    ]
+  }
+}

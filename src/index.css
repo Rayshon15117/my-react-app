@@ -1,0 +1,141 @@
+/* 导入Inter字体 */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* 全局样式重置 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 根元素样式 */
+:root {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+  /* 确保字体渲染优化 */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* 基础样式 */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #89CFF0; /* 新配色：天蓝色背景 */
+  color: #2A2A2A; /* 新配色：炭黑文字 */
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #A3D5F1; /* 天蓝色主题滚动条轨道 */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E0E0E0; /* 使用新配色：浅灰 */
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D0D0D0; /* 悬停时稍微深一点 */
+}
+
+/* 选择文本样式 */
+::selection {
+  background-color: #F4A259; /* 使用新配色：哑光橙 */
+  color: #FFFFFF; /* 选中文字为白色 */
+}
+
+/* 焦点样式 */
+:focus {
+  outline: 2px solid #F4A259; /* 使用新配色：哑光橙 */
+  outline-offset: 2px;
+}
+
+/* 链接样式 */
+a {
+  color: #E0E0E0; /* 使用新配色：浅灰作为链接色 */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F4A259; /* 悬停时显示哑光橙 */
+}
+
+/* 按钮样式重置 */
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* 输入框样式重置 */
+input, textarea {
+  font-family: inherit;
+  border: none;
+  outline: none;
+}
+
+/* 图片样式 */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 列表样式重置 */
+ul, ol {
+  list-style: none;
+}
+
+/* 标题样式重置 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: inherit;
+  font-size: inherit;
+  color: #F4A259; /* 章节标题使用哑光橙 */
+}
+
+/* 段落样式重置 */
+p {
+  margin: 0;
+}
+
+/* 无障碍支持 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  :root {
+    --text-color: #000000;
+    --background-color: #89CFF0;
+  }
+  
+  body {
+    background-color: #89CFF0 !important;
+    color: #000000 !important;
+  }
+}

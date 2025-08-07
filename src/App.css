@@ -1,0 +1,225 @@
+/* 全局样式重置 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 根元素样式 */
+:root {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+  /* 确保字体渲染优化 */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* 基础样式 */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #89CFF0; /* 新配色：天蓝色背景 */
+  color: #2A2A2A; /* 新配色：炭黑文字 */
+}
+
+/* App容器 */
+.App {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 响应式设计 */
+@media (max-width: 1200px) {
+  /* 调整大屏幕的padding */
+  .App section {
+    padding-left: 64px !important;
+    padding-right: 64px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  /* 移动端适配 */
+  .App section {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+  
+  /* 调整网格布局 */
+  .App section[style*="grid-template-columns"] {
+    grid-template-columns: 1fr !important;
+  }
+  
+  /* 调整flex布局 */
+  .App section[style*="flex-direction: row"] {
+    flex-direction: column !important;
+  }
+}
+
+@media (max-width: 480px) {
+  /* 小屏幕进一步优化 */
+  .App section {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #A3D5F1; /* 天蓝色主题滚动条轨道 */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E0E0E0; /* 使用新配色：浅灰 */
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D0D0D0; /* 悬停时稍微深一点 */
+}
+
+/* 选择文本样式 */
+::selection {
+  background-color: #F4A259; /* 使用新配色：哑光橙 */
+  color: #FFFFFF; /* 选中文字为白色 */
+}
+
+/* 焦点样式 */
+:focus {
+  outline: 2px solid #F4A259; /* 使用新配色：哑光橙 */
+  outline-offset: 2px;
+}
+
+/* 链接样式 */
+a {
+  color: #E0E0E0; /* 使用新配色：浅灰作为链接色 */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F4A259; /* 悬停时显示哑光橙 */
+}
+
+/* 按钮样式重置 */
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* 输入框样式重置 */
+input, textarea {
+  font-family: inherit;
+  border: none;
+  outline: none;
+}
+
+/* 图片样式 */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 列表样式重置 */
+ul, ol {
+  list-style: none;
+}
+
+/* 标题样式重置 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: inherit;
+  font-size: inherit;
+  color: #F4A259; /* 章节标题使用哑光橙 */
+}
+
+/* 段落样式重置 */
+p {
+  margin: 0;
+}
+
+/* 动画效果 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* 悬停效果 */
+.hover-lift {
+  transition: transform 0.2s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-2px);
+}
+
+/* 加载状态 */
+.loading {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+/* 无障碍支持 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  :root {
+    --text-color: #000000;
+    --background-color: #89CFF0;
+  }
+  
+  body {
+    background-color: #89CFF0 !important;
+    color: #000000 !important;
+  }
+}
+
+/* 打印样式 */
+@media print {
+  .App {
+    background: white !important;
+    color: black !important;
+  }
+  
+  .App section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}
